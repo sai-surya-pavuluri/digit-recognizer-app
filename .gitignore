@@ -1,0 +1,5 @@
+# Except these specific model files
+!model/mnist_simple_model.h5
+!model/mnist_lenet_model.h5
+!model/mnist_vgg_model.h5
+!model/mnist_resnet_model.h5
