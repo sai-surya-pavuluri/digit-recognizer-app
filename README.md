@@ -1,6 +1,6 @@
 # 🧠 AI Digit Recognizer Tool
 
-This project is a web-based AI-powered digit recognition app. Upload an image of a handwritten digit (0–9), choose a CNN model, and get the prediction(s)!
+This project is a web-based AI-powered digit recognition app. Upload an image of a handwritten digit (0–9), choose a CNN model, and get the prediction!
 
 ---
 
